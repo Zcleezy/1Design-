@@ -10,9 +10,26 @@ H1 {
 	color: Purple;
 	background-color: ;
 	}
+
+H2
+{
+	font-family: OCR A Std, monospace;
+	font-size: 5em;
+	color: green;
+	background-color: ;
+	}
+
 	.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: green;
+  border: 2px solid #4CAF50;
 }
