@@ -1,12 +1,18 @@
 p {
-	font-family: Garamond, Times New Roman, serif;
+	font-family: FreeMono, monospace;
 	font-size: 1.2em;
 	color: #000000;
 }
 
 H1 {
-	font-family: Pacifico, Arial, sans-serif;
-	font-size: 2.5em;
-	color: purple;
-	background-color: yellow;
+	font-family: OCR A Std, monospace;
+	font-size: 10em;
+	color: Purple;
+	background-color: ;
 	}
+	.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
