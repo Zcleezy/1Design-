@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/Zcleezy/1Design-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<link rel="stylesheet" href="css/styles.css">
+</head>
 
-### Markdown
+  <body style="background-color:black;">
+  <iframe width="420" height="315"
+  src="https://www.youtube.com/embed/F7SVK1MIeXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class=sticky >">
+</iframe>
+  <h3> Play ME AND SCROLL TO THE BEST OF YOUR ABILITIES
+    <img src="images/karie.gif.gif" alt "Karie.gif.gif" class=center
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+</body>
+	<div>
+<h1>Manifesto of the subversive</h1>
+<h2>Zarria Clark </h2>
+<p>RULE ONE: Don't let the grid define you.</p>
+<p>RULE TWO: Don't let the prompt limit you.</p>
+<p>RULE THREE: CLients have no say Heck with them.</p>
+<p>RULE FOUR: Consider everything an experiment.</p>
+<p>RULE FIVE: Last minute is the best minute.</p>
+<p>RULE SIX: Defy everything "normal" and standard.</p>
+<p>RULE SEVEN: You can give up. What's the worst that can happen.</p>
+<p>RULE EIGHT: Stick to what you know innovation is for those who care.</p>
+<p>RULE NINE: If you aren't happy. STOP </p>
 
-1. Numbered
-2. List
+<img src="images/rickandmorty.gif" alt "rickandmorty.gif" class=center
 
-**Bold** and _Italic_ and `Code` text
+<menu>
+    <a href="http://www.kerismith.com/popular-posts/how-to-be-a-guerilla-artist-2/">
+    <img src="images/oilpastel.jpg.jpg" height="500" width="600"
+  </a>
+  <a href="https://artstandardtime.com/blogs/art/10-rules-for-students-and-teachers-from-john-cage">
+  <img src="images/oilpastel.jpg.jpg"height="500" width="600"
+</a>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artmajeur.com%2Fen%2Fbecard%2Fartworks%2F3574165%2Fguernica-et-le-regard-de-picasso&psig=AOvVaw00DWhPSFXirY5sDF3wFLpH&ust=1638848793252000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDawtqhzvQCFQAAAAAdAAAAABAJ">
+<img src="images/oilpastel.jpg.jpg"height="500" width="600"
+</a>
+</menu>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+</div>
+</body>
 
-### Jekyll Themes
+</html>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zcleezy/1Design-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<div class="green"
+</div>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
