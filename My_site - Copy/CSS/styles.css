@@ -1,12 +1,12 @@
 p {
 	font-family: FreeMono, monospace;
-	font-size: 1.2em;
+	font-size: 7em;
 	color: white;
 }
 
 H1 {
 	font-family: OCR A Std, monospace;
-	font-size: 10em;
+	font-size: 5em;
 	color: Purple;
 	background-color: ;
 	}
@@ -14,11 +14,18 @@ H1 {
 H2
 {
 	font-family: OCR A Std, monospace;
-	font-size: 5em;
-	color: green;
+	font-size: 2em;
+	color: yellow;
 	background-color: ;
 	}
 
+H3
+{
+	font-family: OCR A Std, monospace;
+	font-size: 3em;
+	color: green;
+	background-color: ;
+	}
 	.center {
   display: block;
   margin-left: auto;
@@ -29,7 +36,9 @@ H2
 .sticky {
   position: -webkit-sticky;
   position: sticky;
-  top: 0;
-  background-color: green;
-  border: 2px solid #4CAF50;
+  top: 20;
+  background-color: black;
+  border: 2px solid #black;
+}
+
 }
